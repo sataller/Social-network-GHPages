@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Social-network-GHPages/static/css/main.8eef920c.chunk.css",
+    "main.js": "/Social-network-GHPages/static/js/main.1ee99291.chunk.js",
+    "main.js.map": "/Social-network-GHPages/static/js/main.1ee99291.chunk.js.map",
+    "runtime-main.js": "/Social-network-GHPages/static/js/runtime-main.f2f141e7.js",
+    "runtime-main.js.map": "/Social-network-GHPages/static/js/runtime-main.f2f141e7.js.map",
+    "static/js/2.e65d0197.chunk.js": "/Social-network-GHPages/static/js/2.e65d0197.chunk.js",
+    "static/js/2.e65d0197.chunk.js.map": "/Social-network-GHPages/static/js/2.e65d0197.chunk.js.map",
+    "static/css/3.87e992de.chunk.css": "/Social-network-GHPages/static/css/3.87e992de.chunk.css",
+    "static/js/3.c31beef8.chunk.js": "/Social-network-GHPages/static/js/3.c31beef8.chunk.js",
+    "static/js/3.c31beef8.chunk.js.map": "/Social-network-GHPages/static/js/3.c31beef8.chunk.js.map",
+    "index.html": "/Social-network-GHPages/index.html",
+    "precache-manifest.b19744e32f2d251477a58705ba0833f6.js": "/Social-network-GHPages/precache-manifest.b19744e32f2d251477a58705ba0833f6.js",
+    "service-worker.js": "/Social-network-GHPages/service-worker.js",
+    "static/css/3.87e992de.chunk.css.map": "/Social-network-GHPages/static/css/3.87e992de.chunk.css.map",
+    "static/css/main.8eef920c.chunk.css.map": "/Social-network-GHPages/static/css/main.8eef920c.chunk.css.map",
+    "static/js/2.e65d0197.chunk.js.LICENSE.txt": "/Social-network-GHPages/static/js/2.e65d0197.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Social-network-GHPages/static/media/background1.f30dabde.jpeg",
+    "static/media/preloader1.svg": "/Social-network-GHPages/static/media/preloader1.d842d876.svg",
+    "static/media/spamIcon.png": "/Social-network-GHPages/static/media/spamIcon.ae92409e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2f141e7.js",
+    "static/js/2.e65d0197.chunk.js",
+    "static/css/main.8eef920c.chunk.css",
+    "static/js/main.1ee99291.chunk.js"
+  ]
+}
